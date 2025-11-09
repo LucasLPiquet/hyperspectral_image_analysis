@@ -1,7 +1,7 @@
 # hyperspectral_image_analysis
 
 ## Description
-Repository created with the purpose of testing and exploring hiperspectral images in order to compare the differences between what the eyes can perceive and what is actually shown in other, invisible, frequencies
+Repository created with the purpose of testing and exploring hiperspectral images in order to compare the differences between what the eyes can perceive and what is actually shown in other, invisible, frequencies.
 
 ## Objective
 The research has already begun, so I'm going to update what has been already done, and what I'm still working at.
